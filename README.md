@@ -1,5 +1,9 @@
-- 👋 Hello world! My name is Robert Dewitt, and I'm thrilled to be working with the teams here at Lightspeed!
-- 🎨 Front-End Skills: HTML, CSS, JavaScript, Bootstrap 
-- 👨‍💻 Back-End Skills: PHP, Amazon Web Services, HubSpot
-- 📖 I’m currently studying cyber security and brushing up on my Laravel skills.
-- 📫 How to reach me: Best way to get to me is through Microsoft Teams. I always respond as quickly as I can!
+## About Me
+- Hello world! My name is Robert Dewitt, and I have been working for Lightspeed Voice ever since December 2021 as a software engineer focusing on the development of telephony software. Listed below is just a short list of skills, methodologies and technologies that I have learned throughout my career!
+- Coding Languages: PHP, HTML, CSS, JavaScript, AJAX, MySQL, jQuery, JSON, Shell Scripting
+- Amazon Web Services: S3, EC2, Route 53, SES, IAM
+- Project Management: Git, Agile, Scrum, Kanban, Asana
+- Frameworks: CodeIgniter, Laravel, Bootstrap
+- APIs: HubSpot, MailChimp
+- Soft Skills: Leadership, Time Management, Communication
+- I’m currently studying cybersecurity at Southern New Hampshire University! My expected graduation date is October 2023.
