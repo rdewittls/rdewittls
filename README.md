@@ -6,4 +6,4 @@
 - Frameworks: CodeIgniter, Laravel, Bootstrap
 - APIs: HubSpot, MailChimp
 - Soft Skills: Leadership, Time Management, Communication
-- I’m currently studying cybersecurity at Southern New Hampshire University! My expected graduation date is October 2023.
+- I’m currently studying cybersecurity at Southern New Hampshire University! My expected graduation date is sometime in 2024.
